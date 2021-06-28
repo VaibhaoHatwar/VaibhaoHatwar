@@ -1,7 +1,8 @@
-- Hi👋, I’m Vaibhao Hatwar
-- 👀 I’m interested in web development (Javascript - MEAN stack)
-- 🌱 I’m currently learning NodeJS
-- 📫 You can reach me on linkedIn - linkedin.com/in/vaibhao-hatwar or you can mail me on vaibhaohatwar.works@ghmail.com
+- Hi👋, I’m Vaibhao Hatwar. I'm a self-taught web developer.
+- 👀 I’m interested in Javascript (MEAN stack).
+- 🌱 I’m currently learning NodeJS.
+- 📫 You can reach me at linkedIn - linkedin.com/in/vaibhao-hatwar or
+     you can mail me at email- vaibhaohatwar.works@ghmail.com
 
 
 <!---
