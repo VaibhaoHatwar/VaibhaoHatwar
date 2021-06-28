@@ -2,7 +2,7 @@
 - 👀 I’m interested in Javascript MEAN stack.
 - 🌱 I’m currently learning NodeJS.
 - 📫 You can reach me at linkedIn - linkedin.com/in/vaibhao-hatwar or
-     you can mail me at email- vaibhaohatwar.works@ghmail.com
+- 📫 you can mail me at email- vaibhaohatwar.works@ghmail.com
 
 
 <!---
