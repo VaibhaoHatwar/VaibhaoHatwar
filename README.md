@@ -1,7 +1,7 @@
 - Hi👋, I’m Vaibhao Hatwar. I'm a self-taught web developer.
 - 👀 I’m interested in Javascript fullstack (MEAN/MERN stack).
 - 🌱 I’m currently learning NodeJS.
-- 📫 You can reach me at linkedIn - https://www.linkedin.com/in/vaibhao-hatwar/ or
+- 📫 You can reach me at linkedIn - https://www.linkedin.com/in/vaibhao-hatwar or
 - 📫 you can mail me at email- vaibhaohatwar.works@ghmail.com
 
 
