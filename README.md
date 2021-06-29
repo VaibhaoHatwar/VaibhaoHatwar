@@ -1,5 +1,5 @@
 - Hi👋, I’m Vaibhao Hatwar. I'm a self-taught web developer.
-- 👀 I’m interested in Javascript MEAN stack.
+- 👀 I’m interested in Javascript fullstack (MEAN/MERN stack).
 - 🌱 I’m currently learning NodeJS.
 - 📫 You can reach me at linkedIn - linkedin.com/in/vaibhao-hatwar or
 - 📫 you can mail me at email- vaibhaohatwar.works@ghmail.com
