@@ -2,7 +2,7 @@
 - 👀 I’m interested in Javascript fullstack (MEAN/MERN stack).
 - 🌱 I’m currently learning NodeJS.
 - 📫 You can reach me at linkedIn - https://www.linkedin.com/in/vaibhao-hatwar or
-- 📫 you can mail me at email- vaibhaohatwar.works@ghmail.com
+- 📫 you can mail me at email- vaibhaohatwar.works@gmail.com
 
 
 <!---
