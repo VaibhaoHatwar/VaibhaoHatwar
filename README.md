@@ -1,8 +1,9 @@
 - Hi👋, I’m Vaibhao Hatwar. I'm a self-taught web developer.
 - 👀 I’m interested in Javascript fullstack (MERN stack).
 - 🌱 I’m currently learning React.js.
-- 📫 You can reach me at linkedIn - https://www.linkedin.com/in/vaibhao-hatwar or
-- 📫 you can mail me at email- vaibhaohatwar.works@gmail.com
+- 📫 My personal portfolio web app can be found here.  - https://www.vaibhaohatwar.com 
+- 📫 My LinkedIn profile page can be found here.  - https://www.linkedin.com/in/vaibhao-hatwar or
+- 📫 Please contact me at vaibhaohatwar.works@gmail.com. 
 
 
 <!---
