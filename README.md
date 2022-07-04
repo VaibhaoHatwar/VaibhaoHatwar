@@ -1,4 +1,4 @@
-- 👋 Hello, my name is Vaibhao Hatwar. I self-taught myself how to build websites. 👀 Concerning Javascript full stack, I'm curious (MERN stack).
+- Hello 👋, my name is Vaibhao Hatwar. I self-taught myself how to build websites. 👀 Concerning Javascript full stack, I'm curious (MERN stack).
 
 - 🌱 Among the technologies I am familiar with are React.js, JavaScript, ES6, Bootstrap, CSS3, HTML5, Git, GitHub, and the ideas behind jQuery, Node.js, and Express.js.
 
