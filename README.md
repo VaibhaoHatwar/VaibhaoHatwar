@@ -1,10 +1,11 @@
-- Hello 👋, this is Vaibhao Hatwar. I self-taught myself website development.
-- 👀 I'm curious about Javascript fullstack (MERN stack).
-- 🌱 I am familiar with a number of technologies, including React.js, JavaScript, ES6, Bootstrap, CSS3, HTML5, Git, GitHub, and the concepts underlying jQuery, Node.js, and Express.js.
-- 🌱 I'm now concentrating on front-end React.js projects.
+- Hello 👋, Vaibhao Hatwar here. I learned how to create websites on my own.
+- 👀 I'm interested in learning more about Javascript full stack (MERN stack).
+- 🌱 I am familiar with a variety of technologies, including React.js, JavaScript, ES6, Bootstrap, CSS3, HTML5, Git, GitHub, and the concepts underlying jQuery, Node.js, and Express.js.
+- 🌱 I'm now focusing on front-end React.js projects.
 - 📫 Here is a link to my online portfolio application. https://www.vaibhaohatwar.com
-- 📫 My LinkedIn profile page can be found here. www.linkedin.com/in/vaibhao-hatwar
-- 📫 You can contact me through email at vaibhaohatwar.works@gmail.com.
+- 📫 You may find my LinkedIn profile page here. https://www.linkedin.com/in/vaibhao-hatwar
+- 📫 You can reach me by email at vaibhaohatwar.works@gmail.com.
+
 
 <!---
 VaibhaoHatwar/VaibhaoHatwar is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
