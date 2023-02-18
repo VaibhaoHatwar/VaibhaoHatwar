@@ -1,13 +1,11 @@
-- Hello 👋, my name is Vaibhao Hatwar. I self-taught myself how to build websites.
+- Hi there 👋! I'm Vaibhao Hatwar, a self-taught web developer specializing in front-end development with React.js and Next.js.
 
-- 🌱 Among the technologies I am familiar with are React.js, JavaScript, ES6, Tailwind CSS, Bootstrap, CSS3, HTML5, Firebase, Git, GitHub.
-- 💞️ I'm focusing on front-end React.js projects at the moment.
+- 🌱 I'm familiar with a range of technologies, including JavaScript, Firebase, and more.
 
-- 📫 Click this link to access my online portfolio application. https://www.vaibhaohatwar.com
+- 📫 Take a look at my online portfolio at https://www.vaibhaohatwar.com to see some of my work.
 
-- 📫 Click this link to view my LinkedIn profile. https://www.linkedin.com/in/vaibhao-hatwar
-
-- 📫 To contact me, send an email to vaibhaohatwar.works@gmail.com.
+- 📫 If you have any questions or want to chat about a project, feel free to reach out to me at vaibhaohatwar.works@gmail.com.
+- Thanks for stopping by!
 
 <!---
 VaibhaoHatwar/VaibhaoHatwar is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
