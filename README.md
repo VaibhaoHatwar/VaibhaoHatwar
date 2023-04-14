@@ -4,19 +4,19 @@ Hi there 👋! I'm Vaibhao Hatwar, a self-taught web developer specializing in R
 
 ### About Me
 
-🌱 I'm familiar with a range of technologies, including JavaScript, Firebase, NodeJS, ExpressJS, MongoDB, and more.
+* 🌱 I'm familiar with a range of technologies, including JavaScript, Firebase, NodeJS, ExpressJS, MongoDB, and more.
 
-🎓 I have completed my Bachelor's degree in Mechanical Engineering from Nagpur University, India.
+* 🎓 I have completed my Bachelor's degree in Mechanical Engineering from Nagpur University, India.
 
-👨‍💻 I'm passionate about creating web applications that are both beautiful and functional.
+* 👨‍💻 I'm passionate about creating web applications that are both beautiful and functional.
 
-🌐 I believe in continuous learning and staying updated with the latest trends and technologies in web development.
+* 🌐 I believe in continuous learning and staying updated with the latest trends and technologies in web development.
 
-📫 Take a look at my online portfolio at https://www.vaibhaohatwar.com to see some of my work.
+* 📫 Take a look at my online portfolio at https://www.vaibhaohatwar.com to see some of my work.
 
 ### Contact Me
 
-- 📫 If you have any questions or want to chat about a project, feel free to reach out to me at vaibhaohatwar.works@gmail.com.
+* 📫 If you have any questions or want to chat about a project, feel free to reach out to me at vaibhaohatwar.works@gmail.com.
 
 Thanks for stopping by!
 
