@@ -1,6 +1,4 @@
-### Vaibhao Hatwar - Web Developer
-
-Hi there 👋! I'm Vaibhao Hatwar, a self-taught web developer specializing in React.js and Next.js, Nodejs.
+### Hi there 👋! I'm Vaibhao Hatwar, a self-taught web developer specializing in React.js and Next.js, Nodejs.
 
 ### About Me
 
