@@ -1,25 +1,41 @@
-### Hi there 👋! I'm Vaibhao Hatwar, a self-taught web developer specializing in React.js and Next.js, Nodejs.
+# 👋 Hi, I'm Vaibhao Hatwar
 
-### About Me
+I'm a **self-taught web developer** currently transitioning from a background in product design (AutoCAD, modular kitchens) to full-stack web development with a focus on the **MERN stack** (MongoDB, Express, React, Node.js).
 
-* 🌱 I'm familiar with a range of technologies, including JavaScript, Firebase, NodeJS, ExpressJS, MongoDB, and more.
+---
 
-* 🎓 I have completed my Bachelor's degree in Mechanical Engineering from Nagpur University, India.
+## 🌱 What I'm Learning
 
-* 👨‍💻 I'm passionate about creating web applications that are both beautiful and functional.
+- JavaScript (ES6+), DOM Manipulation
+- React.js (Components, Props, State)
+- Node.js, Express.js, MongoDB
+- Git & GitHub, Fetch API
 
-* 🌐 I believe in continuous learning and staying updated with the latest trends and technologies in web development.
+---
 
-* 📫 Take a look at my online portfolio at https://www.vaibhaohatwar.com to see some of my work.
+## 💻 Projects
 
-### Contact Me
+- **Currency Converter Web App**  
+  Real-time API-based converter built with HTML, CSS, JavaScript. [GitHub Repo](https://github.com/VaibhaoHatwar/currency-convertor)
 
-* 📫 If you have any questions or want to chat about a project, feel free to reach out to me at vaibhaohatwar.works@gmail.com.
+*More coming soon: React projects, portfolio site, and full-stack MERN apps.*
 
-Thanks for stopping by!
+---
 
-<!---
-VaibhaoHatwar/VaibhaoHatwar is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+## 🎓 Background
 
+- Bachelor’s in Mechanical Engineering – Nagpur University, India
+- Pivoting from engineering and design to full-stack web development
+- Committed to learning by building projects and sharing progress publicly
+
+---
+
+## 📫 Let’s Connect
+
+- Email: vaibhaohatwar.works@gmail.com  
+- LinkedIn: [linkedin.com/in/vaibhaohatwar](https://linkedin.com/in/vaibhaohatwar)
+
+---
+
+Thanks for visiting! 🙏  
+Currently building in public and learning every day 🚀
