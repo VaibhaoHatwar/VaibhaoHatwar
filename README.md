@@ -16,14 +16,18 @@ I'm a **self-taught web developer** currently transitioning from a background in
 ## 💻 Projects
 
 - **MERN MemoStack App**  
-  Full-stack memo app with CRUD, rate limiting, Tailwind UI. In progress.  
-  [GitHub Repo](https://github.com/VaibhaoHatwar/mern-memostack)
+  Full-stack memo app with CRUD, rate limiting, and clean Tailwind UI.  
+  🏗️ In progress — built with focus and intention.  
+  🔗 [GitHub Repo](https://github.com/VaibhaoHatwar/mern-memostack)
 
 - **Currency Converter Web App**  
-  Real-time API-based converter built with HTML, CSS, JavaScript.  
-  [GitHub Repo](https://github.com/VaibhaoHatwar/currency-convertor)
+  Real-time currency converter with live APIs and flag icons.  
+  🔗 [GitHub Repo](https://github.com/VaibhaoHatwar/currency-convertor)
 
-*More coming soon: React projects, portfolio site, and full-stack MERN apps.*
+- **React Employee Manager (EMS App)**  
+  Task management app with Context API and dashboard views.  
+  🔧 85% done — authentication in progress.  
+  🔗 [GitHub Repo](https://github.com/VaibhaoHatwar/react-employee-manager)
 
 ---
 
