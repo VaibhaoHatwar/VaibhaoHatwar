@@ -28,7 +28,7 @@ A full-stack note-taking app with authentication, CRUD, and persistent local sto
 ### 🧠 EMS - Employee Management System (React + Context API)  
 Task assignment dashboard for Admins & Employees  
 🧱 **Tech:** React, TailwindCSS, Context API, LocalStorage  
-📂 [Code](https://github.com/VaibhaoHatwar/ems-react-task-app)
+📂 [Code](https://github.com/VaibhaoHatwar/react-employee-manager)
 
 ---
 
