@@ -28,7 +28,7 @@ A fitness tracking web app to log workouts, track progress, and stay consistent
 ### 💱 Currency Converter App  
 A simple currency converter using live API and DOM manipulation  
 🧱 **Tech:** HTML, CSS, JavaScript, API  
-📂 [Code](https://github.com/VaibhaoHatwar/currency-converter)
+📂 [Code](https://github.com/VaibhaoHatwar/currency-convertor)
 
 ### 📝 MERN MemoStack  
 A full-stack note-taking app with auth, CRUD, and persistent data  
