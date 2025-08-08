@@ -1,34 +1,39 @@
 <h1 align="center">👋 Hi, I'm Vaibhao Hatwar</h1>
 
 <p align="center">
-  A self-taught <strong>MERN Stack Web Developer</strong> passionate about building digital products that solve real-world problems.  
-  Transitioning from a modular kitchen design background into full-stack development.  
-  Learning by doing, building in public, and growing every day 🚀  
+  A self-taught <strong>MERN Stack Web Developer</strong> passionate about building digital products that solve real-world problems.<br>
+  Transitioned from a modular kitchen design background into full-stack development.<br>
+  Learning by doing, building in public, and growing every day 🚀
 </p>
 
 ---
 
 ## 🚀 What I'm Learning
 
-- Mastering the MERN Stack (MongoDB, Express, React, Node.js)
-- Building full-stack apps with clean architecture
-- Writing clean, readable, and scalable code
-- Working with Git, GitHub, and APIs
-- Practicing job-ready workflows (deployment, authentication, context/state management)
+- Deepening my skills in the MERN Stack (MongoDB, Express, React, Node.js)
+- Building full-stack apps with clean, maintainable architecture
+- Authentication, context/state management, and API integration
+- Git-based collaboration and deployment pipelines
+- Building job-ready projects to showcase problem-solving skills
 
 ---
 
-## 💻 My Projects
+## 💻 Featured Projects
 
-### 📝 MERN MemoStack App  
-A full-stack note-taking app with authentication, CRUD, and persistent local storage  
+### 🏋️ FitLog (In Progress)  
+A fitness tracking web app to log workouts, track progress, and stay consistent  
+🧱 **Tech:** MERN Stack, TailwindCSS, React Router, Context API  
+📂 [Code](https://github.com/VaibhaoHatwar/fitlog) *(WIP)*
+
+### 💱 Currency Converter App  
+A simple currency converter using live API and DOM manipulation  
+🧱 **Tech:** HTML, CSS, JavaScript, API  
+📂 [Code](https://github.com/VaibhaoHatwar/CurrencyConverter)
+
+### 📝 MERN MemoStack  
+A full-stack note-taking app with auth, CRUD, and persistent data  
 🧱 **Tech:** React, Express.js, MongoDB, TailwindCSS  
 📂 [Code](https://github.com/VaibhaoHatwar/MERN-MemoStack)
-
-### 🧠 EMS - Employee Management System (React + Context API)  
-Task assignment dashboard for Admins & Employees  
-🧱 **Tech:** React, TailwindCSS, Context API, LocalStorage  
-📂 [Code](https://github.com/VaibhaoHatwar/react-employee-manager)
 
 ---
 
@@ -44,9 +49,9 @@ Task assignment dashboard for Admins & Employees
 ## 📚 Background
 
 - 🎓 B.E. Mechanical Engineering  
-- 🛠️ Ex-Modular Kitchen Designer Trainee  
-- 🧪 Completed certifications in MERN Stack, React, and CAD/CAM  
-- 📈 Now building portfolio projects & preparing for web development opportunities
+- 🛠️ Former Modular Kitchen Designer  
+- 📜 Certified in React, MERN Stack & CAD/CAM  
+- 🚀 Currently building portfolio projects and applying for internships
 
 ---
 
@@ -54,7 +59,7 @@ Task assignment dashboard for Admins & Employees
 
 - 🌐 [LinkedIn](https://www.linkedin.com/in/vaibhaohatwar)  
 - 📬 vaibhaohatwar.works@gmail.com  
-- 💻 [My GitHub](https://github.com/VaibhaoHatwar)
+- 💻 [GitHub](https://github.com/VaibhaoHatwar)
 
 ---
 
