@@ -22,13 +22,13 @@
 
 ### 🏋️ FitLog (In Progress)  
 A fitness tracking web app to log workouts, track progress, and stay consistent  
-🧱 **Tech:** MERN Stack, TailwindCSS, React Router, Context API  
+🧱 **Tech:** MERN Stack, React Router, Context API  
 📂 [Code](https://github.com/VaibhaoHatwar/fitlog) *(WIP)*
 
 ### 💱 Currency Converter App  
 A simple currency converter using live API and DOM manipulation  
 🧱 **Tech:** HTML, CSS, JavaScript, API  
-📂 [Code](https://github.com/VaibhaoHatwar/CurrencyConverter)
+📂 [Code](https://github.com/VaibhaoHatwar/currency-converter)
 
 ### 📝 MERN MemoStack  
 A full-stack note-taking app with auth, CRUD, and persistent data  
