@@ -2,7 +2,8 @@
 
 <p align="center">
   Self-taught <strong>MERN & Django Developer</strong> | Ex-Product Designer (AutoCAD)<br>
-  Building projects in public, learning by doing, and open to collaborations, junior roles & remote opportunities 🚀
+  Passionate about building scalable, user-friendly web applications.<br>
+  Learning by doing, building in public, and open to collaborations, junior roles & remote opportunities 🚀
 </p>
 
 ---
@@ -11,33 +12,33 @@
 
 - MERN Stack (MongoDB, Express, React, Node.js)  
 - Django & Python backend development  
-- Full-stack architecture, auth flows, APIs, and state management  
+- Full-stack architecture, authentication, REST APIs, and state management  
 - Git-based collaboration, deployment, and portfolio projects
 
 ---
 
-## 💻 Featured Projects
+## 💻 Key Projects
 
 ### 🏋️ FitLog (WIP)  
-Fitness tracker app with MERN stack and React Context  
+MERN fitness tracking app with authentication & responsive UI  
 📂 [Code](https://github.com/VaibhaoHatwar/fitlog)
 
 ### 💱 Currency Converter  
-Live currency converter with JS & API  
+Vanilla JS app with real-time API integration  
 📂 [Code](https://github.com/VaibhaoHatwar/currency-convertor)
 
-### 📝 MERN MemoStack  
-Full-stack note-taking app with auth & CRUD  
-📂 [Code](https://github.com/VaibhaoHatwar/MERN-MemoStack)
+### 💼 Portfolio Website  
+Responsive personal portfolio to showcase projects  
+📂 [Code](https://github.com/VaibhaoHatwar)
 
 ---
 
 ## 🧰 Tech Stack
 
-- **Frontend:** HTML, CSS, JavaScript, React, TailwindCSS  
-- **Backend:** Node.js, Express.js, Django (Learning)  
+- **Frontend:** HTML, CSS, JavaScript (ES6+), React, TailwindCSS  
+- **Backend:** Node.js & Express.js, Django (learning)  
 - **Database:** MongoDB, SQLite/PostgreSQL  
-- **Tools:** Git, GitHub, Postman, VS Code
+- **Tools:** Git, GitHub, VS Code, Postman, Heroku, Render
 
 ---
 
@@ -46,14 +47,29 @@ Full-stack note-taking app with auth & CRUD
 - 🎓 B.E. Mechanical Engineering  
 - 🛠️ Former Modular Kitchen Designer  
 - 📜 Certified in React, MERN Stack & CAD/CAM  
+- 🚀 Currently building portfolio projects and expanding full-stack skills
 
 ---
 
-## 🤝 Let's Connect!
+## 🌟 What I Offer
+
+- Strong problem-solving & analytical skills from engineering background  
+- Quick learner actively building real-world projects  
+- Collaborative, adaptable, and ready to contribute in junior developer or freelance roles
+
+---
+
+## 🎯 Career Goal
+
+To gain hands-on experience in web development, contribute to meaningful projects, and continue growing as a full-stack developer.
+
+---
+
+## 🤝 Let's Connect
 
 - 🌐 [LinkedIn](https://www.linkedin.com/in/vaibhao-hatwar)  
 - 💻 [GitHub](https://github.com/VaibhaoHatwar)  
-- 📬 vaibhaohatwar.works@gmail.com
+- 📬 vaibhaohatwar.works@gmail.com | vaibhao.hatwar@zohomail.in
 
 ---
 
