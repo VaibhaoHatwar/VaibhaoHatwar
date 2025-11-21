@@ -1,38 +1,33 @@
 <h1 align="center">👋 Hi, I'm Vaibhao Hatwar</h1>
 
 <p align="center">
-  A self-taught <strong>MERN Stack Web Developer</strong> passionate about building digital products that solve real-world problems.<br>
-  Transitioned from a modular kitchen design background into full-stack development.<br>
-  Learning by doing, building in public, and growing every day 🚀
+  Self-taught <strong>MERN & Django Developer</strong> | Ex-Product Designer (AutoCAD)<br>
+  Building projects in public, learning by doing, and open to collaborations, junior roles & remote opportunities 🚀
 </p>
 
 ---
 
 ## 🚀 What I'm Learning
 
-- Deepening my skills in the MERN Stack (MongoDB, Express, React, Node.js)
-- Building full-stack apps with clean, maintainable architecture
-- Authentication, context/state management, and API integration
-- Git-based collaboration and deployment pipelines
-- Building job-ready projects to showcase problem-solving skills
+- MERN Stack (MongoDB, Express, React, Node.js)  
+- Django & Python backend development  
+- Full-stack architecture, auth flows, APIs, and state management  
+- Git-based collaboration, deployment, and portfolio projects
 
 ---
 
 ## 💻 Featured Projects
 
-### 🏋️ FitLog (In Progress)  
-A fitness tracking web app to log workouts, track progress, and stay consistent  
-🧱 **Tech:** MERN Stack, React Router, Context API  
-📂 [Code](https://github.com/VaibhaoHatwar/fitlog) *(WIP)*
+### 🏋️ FitLog (WIP)  
+Fitness tracker app with MERN stack and React Context  
+📂 [Code](https://github.com/VaibhaoHatwar/fitlog)
 
-### 💱 Currency Converter App  
-A simple currency converter using live API and DOM manipulation  
-🧱 **Tech:** HTML, CSS, JavaScript, API  
+### 💱 Currency Converter  
+Live currency converter with JS & API  
 📂 [Code](https://github.com/VaibhaoHatwar/currency-convertor)
 
 ### 📝 MERN MemoStack  
-A full-stack note-taking app with auth, CRUD, and persistent data  
-🧱 **Tech:** React, Express.js, MongoDB, TailwindCSS  
+Full-stack note-taking app with auth & CRUD  
 📂 [Code](https://github.com/VaibhaoHatwar/MERN-MemoStack)
 
 ---
@@ -40,9 +35,9 @@ A full-stack note-taking app with auth, CRUD, and persistent data
 ## 🧰 Tech Stack
 
 - **Frontend:** HTML, CSS, JavaScript, React, TailwindCSS  
-- **Backend:** Node.js, Express.js  
-- **Database:** MongoDB  
-- **Tools:** Git, GitHub, Postman, Vite, VS Code
+- **Backend:** Node.js, Express.js, Django (Learning)  
+- **Database:** MongoDB, SQLite/PostgreSQL  
+- **Tools:** Git, GitHub, Postman, VS Code
 
 ---
 
@@ -51,19 +46,16 @@ A full-stack note-taking app with auth, CRUD, and persistent data
 - 🎓 B.E. Mechanical Engineering  
 - 🛠️ Former Modular Kitchen Designer  
 - 📜 Certified in React, MERN Stack & CAD/CAM  
-- 🚀 Currently building portfolio projects and applying for internships
 
 ---
 
 ## 🤝 Let's Connect!
 
-- 🌐 [LinkedIn](https://www.linkedin.com/in/vaibhaohatwar)  
-- 📬 vaibhaohatwar.works@gmail.com  
-- 💻 [GitHub](https://github.com/VaibhaoHatwar)
+- 🌐 [LinkedIn](https://www.linkedin.com/in/vaibhao-hatwar)  
+- 💻 [GitHub](https://github.com/VaibhaoHatwar)  
+- 📬 vaibhaohatwar.works@gmail.com
 
 ---
 
 > *"Abhyasena tu Kaunteya vairagyen cha grihyate" — Gita 6.35*  
 > *With practice and detachment, the mind can be mastered.*
-
----
